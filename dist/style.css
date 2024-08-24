@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: rgb(39, 233, 9);
     background-attachment: scroll;
     background-image: url(../downloads/panda.jpg);
     background-position: center center;
@@ -348,6 +348,8 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+    background-color: #222;
+    color: antiquewhite;
 }
 
 #portfolio .portfolio-item {
