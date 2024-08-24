@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: rgb(39, 233, 9);
+    color: burlywood;
     background-attachment: scroll;
     background-image: url(downloads/panda.jpg);
     background-position: center center;
