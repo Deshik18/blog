@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: rgb(39, 233, 9);
     background-attachment: scroll;
-    background-image: url(../downloads/panda.jpg);
+    background-image: url(downloads/panda.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
